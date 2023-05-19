@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+p{
+    font-family: appleberry;
+}
+h1{
+    font-family: aero;
+}
+h1{
+    font-size: 100px;
+}
+span{
+    font-size: 2em;
+}
+p{
+    font-weight: normal;
+}
+p{
+    line-height: 1.5;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+p{
+    text-decoration: underline chartreuse;
+}
+h1{
+    text-decoration: overline aquamarine;
+}
+p:nth-of-type(3){
+    text-decoration: line-through orchid;
+    text-align: right;
+}
